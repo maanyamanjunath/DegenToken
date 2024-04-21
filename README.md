@@ -42,7 +42,7 @@ Redeem items: Token holders can redeem items from the shop using the redeem func
 ## Authors
 
 
-ex. Geetha Manjunath
+ Geetha Manjunath
 
 ## License
 
