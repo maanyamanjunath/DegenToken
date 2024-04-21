@@ -38,8 +38,6 @@ Burn tokens: Token holders can burn their own tokens using the burn function.
 Redeem items: Token holders can redeem items from the shop using the redeem function, which requires a specified amount of tokens based on the item's cost.
 
 
-#
-```
 
 ## Authors
 
